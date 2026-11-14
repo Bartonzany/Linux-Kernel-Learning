@@ -1,0 +1,14 @@
+# 内核模块编译产物
+*.ko
+*.o
+*.mod
+*.mod.c
+*.mod.o
+*.order
+modules.order
+Module.symvers
+modules.builtin
+modules.builtin.modinfo
+.*.cmd
+.*.o.cmd
+.tmp_versions/
